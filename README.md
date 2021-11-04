@@ -1,6 +1,6 @@
 # pasteboard
 
-A new flutter plugin project.
+A Flutter clipboard plugin with all native functions, using ClipboardManager(Android) and UIPasteboard(iOS)
 
 ## Getting Started
 
